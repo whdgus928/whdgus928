@@ -16,3 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 코딩 테스트 준비
 파이썬 머신러닝 공부
+
+해야할일 
+왕중왕전 
