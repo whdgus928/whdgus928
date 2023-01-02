@@ -1,4 +1,4 @@
-### 공부하고 있는 분야
+## 공부하고 있는 분야
 * 데이터 분석
   * 데이터 정재/가공
   * 데이터 라벨링
@@ -10,7 +10,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whdgus928&show_icons=true&theme=vue )
 
 
-### 평소 지내는 모습
+## 평소 지내는 모습
 
 [하루 일상](https://blog.naver.com/whdgus928)
 
