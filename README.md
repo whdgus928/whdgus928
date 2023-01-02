@@ -13,3 +13,5 @@
 ### 평소 지내는 모습
 
 [하루 일상](https://blog.naver.com/whdgus928)
+
+[기술 블로그](https://whdgus928.tistory.com/)
