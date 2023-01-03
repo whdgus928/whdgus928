@@ -14,7 +14,9 @@
 [기술 블로그](https://whdgus928.tistory.com/)
 
 ## 📋사용할 수 있는 기술
-<img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=3776AB"> <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
+
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 
 ## 📃깃허브 활동 요약
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whdgus928&show_icons=true&theme=vue )
