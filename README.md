@@ -23,14 +23,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whdgus928&layout=compact&theme=vue)
 
 ## 활동하는 소셜
-<a href="https://blog.naver.com/whdgus928"><img src='https://img.shields.io/static/v1?&message=<programmers>&color=<blue>'></a>
-<a href="https://whdgus928.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://career.programmers.co.kr/pr/whdgus928_1461"><img src="https://img.shields.io/badge/-programmers-blue?style=flat"/></a>
+<a href="https://whdgus928.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Blogger&logoColor=white"/></a>
+
 ## 🌞평소 지내는 모습
-<a href="https://blog.naver.com/whdgus928"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://blog.naver.com/whdgus928"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Blogger&logoColor=white"/></a>
 
 ***
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhdgus928%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/whdgus928)
-
-
