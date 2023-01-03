@@ -26,10 +26,10 @@
 
 ## 활동하는 소셜
 <a href="https://career.programmers.co.kr/pr/whdgus928_1461"><img src="https://img.shields.io/badge/-programmers-blue?style=flat"/></a>
-<a href="https://whdgus928.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Blogger&logoColor=white"/></a>
+<a href="https://whdgus928.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
 
 ## 🌞평소 지내는 모습
-<a href="https://blog.naver.com/whdgus928"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Blogger&logoColor=white"/></a>
+<a href="https://blog.naver.com/whdgus928"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>
 
 ***
 
