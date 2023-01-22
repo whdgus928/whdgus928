@@ -11,6 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [파이썬] 파이썬 기본 문법](https://whdgus928.tistory.com/49) <br/>
+[- [프로그래머스]  문제풀이 - 야근 지수](https://whdgus928.tistory.com/48) <br/>
+[- [프로그래머스] SQL 문제풀이 - NULL 처리하기](https://whdgus928.tistory.com/47) <br/>
+[- [파이썬] 파이썬 round 반올림 오류와 해결 방법](https://whdgus928.tistory.com/46) <br/>
+[- [프로그래머스] 파이썬 문제풀이 - 최고의 집합](https://whdgus928.tistory.com/45) <br/>
+[- [프로그래머스] 파이썬 문제풀이 - 정수 삼각형](https://whdgus928.tistory.com/44) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
@@ -37,10 +43,3 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhdgus928%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/whdgus928)
 
-
-[2023/01/22 - [파이썬] 파이썬 기본 문법](https://whdgus928.tistory.com/49) <br/>
-[2023/01/16 - [프로그래머스]  문제풀이 - 야근 지수](https://whdgus928.tistory.com/48) <br/>
-[2023/01/16 - [프로그래머스] SQL 문제풀이 - NULL 처리하기](https://whdgus928.tistory.com/47) <br/>
-[2023/01/15 - [파이썬] 파이썬 round 반올림 오류와 해결 방법](https://whdgus928.tistory.com/46) <br/>
-[2023/01/13 - [프로그래머스] 파이썬 문제풀이 - 최고의 집합](https://whdgus928.tistory.com/45) <br/>
-[2023/01/13 - [프로그래머스] 파이썬 문제풀이 - 정수 삼각형](https://whdgus928.tistory.com/44) <br/>
