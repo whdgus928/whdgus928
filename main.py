@@ -17,7 +17,10 @@ markdown_text = """
 * SQL
 
 ## ✅ 최근에 작성한 글
+"""  # list of blog posts will be appended here
 
+
+end_text="""
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
 
@@ -43,16 +46,15 @@ markdown_text = """
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhdgus928%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/whdgus928)
 
-
-"""  # list of blog posts will be appended here
+"""
 
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
     else:
-        feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        markdown_text += f"[- {feed['title']}]({feed['link']}) <br/>\n"
         
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
+f.write(end_text)
 f.close()
