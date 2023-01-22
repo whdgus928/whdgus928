@@ -34,7 +34,7 @@ jobs:
         git pull
         git add .
         git diff
-        git config --local whdgus928@naver.com
-        git config --local 백종현
+        git config --local user.email "whdgus928@naver.com"
+        git config --local user.name "whdgus928"
         git commit -m "Updating Blog Posts"
         git push
