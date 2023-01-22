@@ -16,7 +16,7 @@ markdown_text = """
 * 알고리즘
 * SQL
 
-## 최근에 작성한 글
+## ✅ 최근에 작성한 글
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
@@ -43,7 +43,6 @@ markdown_text = """
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhdgus928%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/whdgus928)
 
-## ✅ Latest Blog Post
 
 """  # list of blog posts will be appended here
 
