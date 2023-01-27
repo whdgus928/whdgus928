@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
-[- [운영체제] 시스템 구조 & 프로그램 실행](https://whdgus928.tistory.com/51) <br/>
+[- [운영체제]  프로세스](https://whdgus928.tistory.com/53) <br/>
+[- [운영체제] 입출력 & 프로그램의 실행](https://whdgus928.tistory.com/52) <br/>
+[- [운영체제] 시스템 구조](https://whdgus928.tistory.com/51) <br/>
 [- [운영체제] 운영체제 기초](https://whdgus928.tistory.com/50) <br/>
 [- [파이썬] 파이썬 기본 문법](https://whdgus928.tistory.com/49) <br/>
 [- [프로그래머스]  문제풀이 - 야근 지수](https://whdgus928.tistory.com/48) <br/>
-[- [프로그래머스] SQL 문제풀이 - NULL 처리하기](https://whdgus928.tistory.com/47) <br/>
-[- [파이썬] 파이썬 round 반올림 오류와 해결 방법](https://whdgus928.tistory.com/46) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
