@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [서평단] 데이터에듀 2023 ADsp 데이터 분석 준전문가](https://whdgus928.tistory.com/58) <br/>
+[- [운영체제] 스레드](https://whdgus928.tistory.com/57) <br/>
+[- [IT 인프라] 스토리지 & RAID](https://whdgus928.tistory.com/56) <br/>
+[- [IT 인프라] IT 인프라 기본 지식](https://whdgus928.tistory.com/55) <br/>
+[- [ IT 인프라] IT 인프라 유형과 서버 구성요소](https://whdgus928.tistory.com/54) <br/>
 [- [운영체제]  프로세스](https://whdgus928.tistory.com/53) <br/>
-[- [운영체제] 입출력 & 프로그램의 실행](https://whdgus928.tistory.com/52) <br/>
-[- [운영체제] 시스템 구조](https://whdgus928.tistory.com/51) <br/>
-[- [운영체제] 운영체제 기초](https://whdgus928.tistory.com/50) <br/>
-[- [파이썬] 파이썬 기본 문법](https://whdgus928.tistory.com/49) <br/>
-[- [프로그래머스]  문제풀이 - 야근 지수](https://whdgus928.tistory.com/48) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
