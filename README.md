@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [운영체제] 프로세스 생성과 종료](https://whdgus928.tistory.com/62) <br/>
+[- [네트워크] 애플리케이션 계층 - 소켓, TCP, UDP](https://whdgus928.tistory.com/61) <br/>
+[- [네트워크] 컴퓨터 네트워크 기본 지식](https://whdgus928.tistory.com/60) <br/>
+[- [인프라] IT 인프라 기본 지식](https://whdgus928.tistory.com/59) <br/>
 [- [서평단] 데이터에듀 2023 ADsp 데이터 분석 준전문가](https://whdgus928.tistory.com/58) <br/>
 [- [운영체제] 스레드](https://whdgus928.tistory.com/57) <br/>
-[- [IT 인프라] 스토리지 & RAID](https://whdgus928.tistory.com/56) <br/>
-[- [IT 인프라] IT 인프라 기본 지식](https://whdgus928.tistory.com/55) <br/>
-[- [ IT 인프라] IT 인프라 유형과 서버 구성요소](https://whdgus928.tistory.com/54) <br/>
-[- [운영체제]  프로세스](https://whdgus928.tistory.com/53) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
