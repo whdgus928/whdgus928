@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [운영체제] CPU 스케줄링](https://whdgus928.tistory.com/66) <br/>
 [- [네트워크] 애플리케이션 계층에서 신뢰성 있는 통신 원리](https://whdgus928.tistory.com/65) <br/>
 [- [운영체제] CPU 스케줄링](https://whdgus928.tistory.com/64) <br/>
 [- [운영체제] 프로세스 시스템 콜 종류 & 프로세스 협력](https://whdgus928.tistory.com/63) <br/>
 [- [운영체제] 프로세스 생성과 종료](https://whdgus928.tistory.com/62) <br/>
 [- [네트워크] 애플리케이션 계층 - 소켓, TCP, UDP](https://whdgus928.tistory.com/61) <br/>
-[- [네트워크] 컴퓨터 네트워크 기본 지식](https://whdgus928.tistory.com/60) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
