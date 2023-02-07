@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [파이썬] 파이썬 formatting 방식](https://whdgus928.tistory.com/71) <br/>
+[- [파이썬] 2차원 리스트 깊은복사](https://whdgus928.tistory.com/70) <br/>
 [- [파이썬] 자료구조 깊이우선탐색(DFS)](https://whdgus928.tistory.com/69) <br/>
 [- [파이썬] 파이썬으로 객체 지향 프로그래밍 구현](https://whdgus928.tistory.com/68) <br/>
 [- [운영체제] 프로세스 동기화 & Race Condition](https://whdgus928.tistory.com/67) <br/>
 [- [운영체제] CPU 스케줄링](https://whdgus928.tistory.com/66) <br/>
-[- [네트워크] 애플리케이션 계층에서 신뢰성 있는 통신 원리](https://whdgus928.tistory.com/65) <br/>
-[- [운영체제] CPU 프로세스 관리](https://whdgus928.tistory.com/64) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
