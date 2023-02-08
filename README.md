@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [운영체제] 프로세스 동기화 문제 & 해결방법](https://whdgus928.tistory.com/73) <br/>
+[- [프로그래머스] SQL 문제풀이 - 자동차 대여 기록에서 장기/단기 대여 구분하기](https://whdgus928.tistory.com/72) <br/>
 [- [파이썬] 파이썬 formatting 방식](https://whdgus928.tistory.com/71) <br/>
 [- [파이썬] 2차원 리스트 깊은복사](https://whdgus928.tistory.com/70) <br/>
 [- [파이썬] 자료구조 깊이우선탐색(DFS)](https://whdgus928.tistory.com/69) <br/>
 [- [파이썬] 파이썬으로 객체 지향 프로그래밍 구현](https://whdgus928.tistory.com/68) <br/>
-[- [운영체제] 프로세스 동기화 & Race Condition](https://whdgus928.tistory.com/67) <br/>
-[- [운영체제] CPU 스케줄링](https://whdgus928.tistory.com/66) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
