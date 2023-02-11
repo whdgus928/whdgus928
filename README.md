@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [머신러닝] 자연어 처리 개요](https://whdgus928.tistory.com/82) <br/>
+[- [네트워크] TCP 세그먼트 구조와 통신원리](https://whdgus928.tistory.com/81) <br/>
 [- [프로그래머스] SQL 문제풀이 - 재구매가 일어난 상품과 회원 리스트 구하기](https://whdgus928.tistory.com/80) <br/>
 [- [프로그래머스] SQL 문제풀이 - 12세 이하인 여자 환자 목록 출력하기](https://whdgus928.tistory.com/79) <br/>
 [- [프로그래머스] SQL 문제풀이 - 평균 일일 대여 요금 구하기](https://whdgus928.tistory.com/78) <br/>
 [- [네트워크] TCP Pipelining 방식 : Go-Back-N & selective repeat](https://whdgus928.tistory.com/77) <br/>
-[- [데이터베이스] 데이터베이스 정규화](https://whdgus928.tistory.com/76) <br/>
-[- [운영체제] 프로세스 동기화의 고전적인 문제](https://whdgus928.tistory.com/75) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
