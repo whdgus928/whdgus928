@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
-[- [머신 러닝] 자연어 처리 유사도 분석](https://whdgus928.tistory.com/83) <br/>
+[- [운영체제] Concurrency Control 병행 제어](https://whdgus928.tistory.com/85) <br/>
+[- [머신러닝] 자연어 처리: 문장을 작은 단위로 쪼개기](https://whdgus928.tistory.com/84) <br/>
+[- [머신러닝] 자연어 처리 유사도 분석](https://whdgus928.tistory.com/83) <br/>
 [- [머신러닝] 자연어 처리 개요](https://whdgus928.tistory.com/82) <br/>
 [- [네트워크] TCP 세그먼트 구조와 통신원리](https://whdgus928.tistory.com/81) <br/>
 [- [프로그래머스] SQL 문제풀이 - 재구매가 일어난 상품과 회원 리스트 구하기](https://whdgus928.tistory.com/80) <br/>
-[- [프로그래머스] SQL 문제풀이 - 12세 이하인 여자 환자 목록 출력하기](https://whdgus928.tistory.com/79) <br/>
-[- [프로그래머스] SQL 문제풀이 - 평균 일일 대여 요금 구하기](https://whdgus928.tistory.com/78) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
