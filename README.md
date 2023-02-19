@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [운영체제] 교착상태(deadlock)](https://whdgus928.tistory.com/90) <br/>
 [- [머신러닝] 미리 학습된 언어 모델과 트랜스포머](https://whdgus928.tistory.com/89) <br/>
 [- API란 무엇인가](https://whdgus928.tistory.com/88) <br/>
 [- 정규표현식](https://whdgus928.tistory.com/87) <br/>
 [- [파이썬] 내장함수 filter](https://whdgus928.tistory.com/86) <br/>
 [- [운영체제] Concurrency Control 병행 제어](https://whdgus928.tistory.com/85) <br/>
-[- [머신러닝] 자연어 처리: 문장을 작은 단위로 쪼개기](https://whdgus928.tistory.com/84) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
