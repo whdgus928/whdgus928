@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [파이썬] 개발툴에서 파이썬으로 엑셀 작업하기](https://whdgus928.tistory.com/93) <br/>
 [- [운영체제] 메모리 관리](https://whdgus928.tistory.com/92) <br/>
 [- [운영체제] 메모리](https://whdgus928.tistory.com/91) <br/>
 [- [운영체제] 교착상태(deadlock)](https://whdgus928.tistory.com/90) <br/>
 [- [머신러닝] 미리 학습된 언어 모델과 트랜스포머](https://whdgus928.tistory.com/89) <br/>
 [- API란 무엇인가](https://whdgus928.tistory.com/88) <br/>
-[- 정규표현식](https://whdgus928.tistory.com/87) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
