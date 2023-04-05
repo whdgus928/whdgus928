@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- 데이터베이스(relational database)개념과 relation, primary key(기본키), foreign key(외래키), constraints](https://whdgus928.tistory.com/100) <br/>
 [- 데이터베이스 기본 개념](https://whdgus928.tistory.com/99) <br/>
 [- 데이터 엔지니어](https://whdgus928.tistory.com/98) <br/>
 [- [운영체제] Paging](https://whdgus928.tistory.com/97) <br/>
 [- [프로그래머스] SQL 문제풀이 - 조건에 부합하는 중고거래 댓글 조회하기](https://whdgus928.tistory.com/96) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - 등굣길](https://whdgus928.tistory.com/95) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 단어 변환](https://whdgus928.tistory.com/94) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
