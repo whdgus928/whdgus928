@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [백준] 파이썬 문제풀이 - 토마토](https://whdgus928.tistory.com/103) <br/>
 [- ERP란 무엇인가?](https://whdgus928.tistory.com/102) <br/>
 [- 파이썬 정규표현식 괄호 내부 문자 추출하기](https://whdgus928.tistory.com/101) <br/>
 [- 데이터베이스(relational database)개념과 relation, primary key(기본키), foreign key(외래키), constraints](https://whdgus928.tistory.com/100) <br/>
 [- 데이터베이스 기본 개념](https://whdgus928.tistory.com/99) <br/>
 [- 데이터 엔지니어 취업 준비](https://whdgus928.tistory.com/98) <br/>
-[- [운영체제] Paging](https://whdgus928.tistory.com/97) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
