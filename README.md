@@ -11,12 +11,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
-[- HTMl5 기본 문서 만들기](https://whdgus928.tistory.com/106) <br/>
+[- [프로그래머스] 파이썬 문제풀이 - 등굣길](https://whdgus928.tistory.com/108) <br/>
+[- HTML5 문서 구조화](https://whdgus928.tistory.com/107) <br/>
+[- HTML5 기본 문서 만들기](https://whdgus928.tistory.com/106) <br/>
 [- 웹 프로그래밍 개요](https://whdgus928.tistory.com/105) <br/>
 [- HTML, CSS, JAVASCRIPT 비교하기](https://whdgus928.tistory.com/104) <br/>
 [- [백준] 파이썬 문제풀이 - 토마토](https://whdgus928.tistory.com/103) <br/>
-[- ERP란 무엇인가?](https://whdgus928.tistory.com/102) <br/>
-[- 파이썬 정규표현식 괄호 내부 문자 추출하기](https://whdgus928.tistory.com/101) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
