@@ -11,7 +11,7 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
-[- css3](https://whdgus928.tistory.com/109) <br/>
+[- CSS3로 웹 페이지 꾸미기](https://whdgus928.tistory.com/109) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - 등굣길](https://whdgus928.tistory.com/108) <br/>
 [- HTML5 문서 구조화](https://whdgus928.tistory.com/107) <br/>
 [- HTML5 기본 문서 만들기](https://whdgus928.tistory.com/106) <br/>
