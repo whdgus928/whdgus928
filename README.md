@@ -2,19 +2,21 @@
 ## ✏공부하고 있는 분야
 * 데이터
   * 데이터 정재/가공
+  * 데이터 라벨링
   * 데이터 분석
+  * 데이터 시각화
 * 웹 개발 - streamlit
-* 백앤드
+* 머신러닝
 * 알고리즘
 * SQL
 
 ## ✅ 최근에 작성한 글
-[- 자바스크립트 언어 특징 및 문법](https://whdgus928.tistory.com/110) <br/>
-[- CSS3로 웹 페이지 꾸미기](https://whdgus928.tistory.com/109) <br/>
+[- [자바 스크립트] 배열과 객체](https://whdgus928.tistory.com/113) <br/>
+[- [프로그래머스] 파이썬, 자바 문제풀이 - [1차] 캐시](https://whdgus928.tistory.com/112) <br/>
+[- [프로그래머스] 파이썬 문제풀이 - n^2 배열 자르기](https://whdgus928.tistory.com/111) <br/>
+[- [자바스크립트] 자바스크립트 언어 특징 및 문법](https://whdgus928.tistory.com/110) <br/>
+[- [CSS3] CSS3로 웹 페이지 꾸미기](https://whdgus928.tistory.com/109) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - 등굣길](https://whdgus928.tistory.com/108) <br/>
-[- HTML5 문서 구조화](https://whdgus928.tistory.com/107) <br/>
-[- HTML5 기본 문서 만들기](https://whdgus928.tistory.com/106) <br/>
-[- 웹 프로그래밍 개요](https://whdgus928.tistory.com/105) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
