@@ -37,7 +37,7 @@ end_text="""
 <a href="https://career.programmers.co.kr/pr/whdgus928_1461"><img src="https://img.shields.io/badge/-programmers-blue?style=flat"/></a>
 <a href="https://whdgus928.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
 
-##이력서
+## 이력서
 <a href="https://www.notion.so/whdgus928/2920bd38d9eb4fa8a3e8fa9cb19fe7b8"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 
 ## 🌞평소 지내는 모습
