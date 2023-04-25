@@ -2,21 +2,19 @@
 ## ✏공부하고 있는 분야
 * 데이터
   * 데이터 정재/가공
-  * 데이터 라벨링
   * 데이터 분석
-  * 데이터 시각화
 * 웹 개발 - streamlit
-* 머신러닝
+* 백엔드
 * 알고리즘
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [프로그래머스] 파이썬 문제풀이 - 프로세스](https://whdgus928.tistory.com/114) <br/>
 [- [자바 스크립트] 배열과 객체](https://whdgus928.tistory.com/113) <br/>
 [- [프로그래머스] 파이썬, 자바 문제풀이 - [1차] 캐시](https://whdgus928.tistory.com/112) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - n^2 배열 자르기](https://whdgus928.tistory.com/111) <br/>
 [- [자바스크립트] 자바스크립트 언어 특징 및 문법](https://whdgus928.tistory.com/110) <br/>
 [- [CSS3] CSS3로 웹 페이지 꾸미기](https://whdgus928.tistory.com/109) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 등굣길](https://whdgus928.tistory.com/108) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
@@ -35,6 +33,9 @@
 ## 활동하는 소셜
 <a href="https://career.programmers.co.kr/pr/whdgus928_1461"><img src="https://img.shields.io/badge/-programmers-blue?style=flat"/></a>
 <a href="https://whdgus928.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
+
+##이력서
+<a href="https://www.notion.so/whdgus928/2920bd38d9eb4fa8a3e8fa9cb19fe7b8"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 
 ## 🌞평소 지내는 모습
 <a href="https://blog.naver.com/whdgus928"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>
