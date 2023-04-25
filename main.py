@@ -8,11 +8,9 @@ markdown_text = """
 ## ✏공부하고 있는 분야
 * 데이터
   * 데이터 정재/가공
-  * 데이터 라벨링
   * 데이터 분석
-  * 데이터 시각화
 * 웹 개발 - streamlit
-* 머신러닝
+* 백엔드
 * 알고리즘
 * SQL
 
@@ -38,6 +36,9 @@ end_text="""
 ## 활동하는 소셜
 <a href="https://career.programmers.co.kr/pr/whdgus928_1461"><img src="https://img.shields.io/badge/-programmers-blue?style=flat"/></a>
 <a href="https://whdgus928.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
+
+##이력서
+<a href="https://www.notion.so/whdgus928/2920bd38d9eb4fa8a3e8fa9cb19fe7b8"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 
 ## 🌞평소 지내는 모습
 <a href="https://blog.naver.com/whdgus928"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>
