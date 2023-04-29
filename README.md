@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [운영체제] Segmentation](https://whdgus928.tistory.com/117) <br/>
+[- [프로그래머스] SQL 문제풀이 - 오랜 기간 보호한 동물(1)](https://whdgus928.tistory.com/116) <br/>
 [- [프로그래머스] SQL 문제풀이 - 조건에 맞는 사용자와 총 거래금액 조회하기](https://whdgus928.tistory.com/115) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - 프로세스](https://whdgus928.tistory.com/114) <br/>
 [- [자바 스크립트] 배열과 객체](https://whdgus928.tistory.com/113) <br/>
 [- [프로그래머스] 파이썬, 자바 문제풀이 - [1차] 캐시](https://whdgus928.tistory.com/112) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - n^2 배열 자르기](https://whdgus928.tistory.com/111) <br/>
-[- [자바스크립트] 자바스크립트 언어 특징 및 문법](https://whdgus928.tistory.com/110) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
