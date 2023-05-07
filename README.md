@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [프로그래머스] 파이썬 문제풀이 - 숫자 게임](https://whdgus928.tistory.com/122) <br/>
 [- 가상 메모리 : 캐쉬, Thrashing](https://whdgus928.tistory.com/121) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - 다리를 지나는 트럭](https://whdgus928.tistory.com/120) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - 숫자 변환하기](https://whdgus928.tistory.com/119) <br/>
 [- [운영체제] 가상 메모리](https://whdgus928.tistory.com/118) <br/>
 [- [운영체제] Segmentation](https://whdgus928.tistory.com/117) <br/>
-[- [프로그래머스] SQL 문제풀이 - 오랜 기간 보호한 동물(1)](https://whdgus928.tistory.com/116) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
