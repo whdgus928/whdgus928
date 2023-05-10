@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [데이터베이스] MySQL(관계형 데이터베이스)](https://whdgus928.tistory.com/127) <br/>
+[- [프로그래밍] 파이썬 문제풀이 - 베스트앨범](https://whdgus928.tistory.com/126) <br/>
+[- [프로그래머스] 파이썬 문제풀이 - 예상 대진표](https://whdgus928.tistory.com/125) <br/>
 [- [데이터베이스] 정보관리도구의 발전](https://whdgus928.tistory.com/124) <br/>
-[- [프로그래머스] 파이선 문제풀이 - 기지국 설치ㅣ](https://whdgus928.tistory.com/123) <br/>
+[- [프로그래머스] 파이선 문제풀이 - 기지국 설치](https://whdgus928.tistory.com/123) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - 숫자 게임](https://whdgus928.tistory.com/122) <br/>
-[- 가상 메모리 : 캐쉬, Thrashing](https://whdgus928.tistory.com/121) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 다리를 지나는 트럭](https://whdgus928.tistory.com/120) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 숫자 변환하기](https://whdgus928.tistory.com/119) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
