@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [운영체제] 파일, 파일 시스템, 파일 보호](https://whdgus928.tistory.com/129) <br/>
+[- [프로그래머스] 파이썬 문제풀이 - 점프와 순간 이동](https://whdgus928.tistory.com/128) <br/>
 [- [데이터베이스] MySQL(관계형 데이터베이스)](https://whdgus928.tistory.com/127) <br/>
 [- [프로그래밍] 파이썬 문제풀이 - 베스트앨범](https://whdgus928.tistory.com/126) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - 예상 대진표](https://whdgus928.tistory.com/125) <br/>
 [- [데이터베이스] 정보관리도구의 발전](https://whdgus928.tistory.com/124) <br/>
-[- [프로그래머스] 파이선 문제풀이 - 기지국 설치](https://whdgus928.tistory.com/123) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 숫자 게임](https://whdgus928.tistory.com/122) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
