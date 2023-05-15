@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [운영체제] UNIX, FAT 파일 시스템 구조, 공간 관리](https://whdgus928.tistory.com/137) <br/>
+[- [운영체제] 파일 접근 및 파일 저장 방법](https://whdgus928.tistory.com/136) <br/>
+[- [파이썬] permutation, combination 순열과 조합](https://whdgus928.tistory.com/135) <br/>
+[- [프로그래머스] 파이썬 문제풀이 - [카카오 인턴] 보석 쇼핑](https://whdgus928.tistory.com/134) <br/>
+[- [프로그래머스] 파이썬 문제풀이 - 불량 사용자](https://whdgus928.tistory.com/133) <br/>
 [- [프로그래머스] SQL 문제풀이 - 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://whdgus928.tistory.com/132) <br/>
-[- [프로그래머스] MYSQL 문제풀이 - 입양 시각 구하기(1)](https://whdgus928.tistory.com/131) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 점프와 순간 이동](https://whdgus928.tistory.com/130) <br/>
-[- [운영체제] 파일, 파일 시스템, 파일 보호](https://whdgus928.tistory.com/129) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 점프와 순간 이동](https://whdgus928.tistory.com/128) <br/>
-[- [데이터베이스] MySQL(관계형 데이터베이스)](https://whdgus928.tistory.com/127) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
