@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [프로그래머스] 파이썬 문제풀이 - 가장 먼 노드](https://whdgus928.tistory.com/144) <br/>
+[- [프로그래머스] 파이썬 문제풀이 - 피로도](https://whdgus928.tistory.com/143) <br/>
+[- 로드 밸런싱은 무엇인가?](https://whdgus928.tistory.com/142) <br/>
+[- 도커(Docker), 쿠버네티스(Kubernetes) 란 무엇인가?](https://whdgus928.tistory.com/141) <br/>
 [- [운영체제] 디스크 구조, 디스크 관리, 디스크 스케줄링 알고리즘, swap-space, raid](https://whdgus928.tistory.com/140) <br/>
 [- [운영체제] 디렉토리 구현, VFS NFS](https://whdgus928.tistory.com/139) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 행렬의 곱셈](https://whdgus928.tistory.com/138) <br/>
-[- [운영체제] UNIX, FAT 파일 시스템 구조, 공간 관리](https://whdgus928.tistory.com/137) <br/>
-[- [운영체제] 파일 접근 및 파일 저장 방법](https://whdgus928.tistory.com/136) <br/>
-[- [파이썬] permutation, combination 순열과 조합](https://whdgus928.tistory.com/135) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
