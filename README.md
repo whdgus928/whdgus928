@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [프로그래머스] 파이썬 문제풀이 - 여행경로](https://whdgus928.tistory.com/151) <br/>
+[- [프로그래머스] 파이썬 문제풀이 - 섬 연결하기](https://whdgus928.tistory.com/150) <br/>
+[- [알고리즘] 크루스칼 알고리즘](https://whdgus928.tistory.com/149) <br/>
 [- [네트워크] HTTPS 통신방법: 대칭키와 비대칭키](https://whdgus928.tistory.com/148) <br/>
 [- JSON, XML이란 무엇인가?](https://whdgus928.tistory.com/147) <br/>
 [- Rest API란 무엇인가?](https://whdgus928.tistory.com/146) <br/>
-[- HTTP 통신 request, response](https://whdgus928.tistory.com/145) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 가장 먼 노드](https://whdgus928.tistory.com/144) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 피로도](https://whdgus928.tistory.com/143) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
