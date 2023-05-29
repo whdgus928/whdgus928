@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- 맵리듀스(mapreduce)란?](https://whdgus928.tistory.com/159) <br/>
 [- [알고리즘] 위상정렬](https://whdgus928.tistory.com/158) <br/>
 [- [파이썬] xml to csv, xml형식을 데이터프레임으로 변환](https://whdgus928.tistory.com/157) <br/>
 [- [데이터베이스] 역정규화란 무엇인가?](https://whdgus928.tistory.com/156) <br/>
 [- [프로그래머스] SQL 문제풀이 - 입양 시각 구하기(2)](https://whdgus928.tistory.com/155) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - 합승 택시 요금](https://whdgus928.tistory.com/154) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - [1차] 뉴스 클러스터링](https://whdgus928.tistory.com/153) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
