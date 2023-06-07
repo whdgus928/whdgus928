@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [1주차]AWS가 제공하는 데이터 웨어하우스 Redshift에 대해 알아보자](https://whdgus928.tistory.com/168) <br/>
+[- [1주차] 데이터 엔지니어링, 데이터 웨어하우스란?](https://whdgus928.tistory.com/167) <br/>
+[- [1주차] 데이터 팀의 비전과 가치를 만들어내는 방법](https://whdgus928.tistory.com/166) <br/>
+[- [1주차] 교육 커리큘럼과 요즘 커리어에 대해서](https://whdgus928.tistory.com/165) <br/>
 [- [구글 애드센스] "판매자 정보를 Google sellers.json 파일에 게시하시기 바랍니다." 해결하기](https://whdgus928.tistory.com/164) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - 방문 길이](https://whdgus928.tistory.com/163) <br/>
-[- [프로그래머스] SQL 문제풀이 - 상품을 구매한 회원 비율 구하기](https://whdgus928.tistory.com/162) <br/>
-[- 데이터베이스 면접 준비](https://whdgus928.tistory.com/161) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 순위](https://whdgus928.tistory.com/160) <br/>
-[- 맵리듀스(mapreduce)란?](https://whdgus928.tistory.com/159) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
