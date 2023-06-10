@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [프로그래머스] 파이썬 문제풀이 - 두 큐 합 같게 만들기](https://whdgus928.tistory.com/170) <br/>
 [- AWS AWSOME DAY](https://whdgus928.tistory.com/169) <br/>
 [- [1주차]AWS가 제공하는 데이터 웨어하우스 Redshift에 대해 알아보자](https://whdgus928.tistory.com/168) <br/>
 [- [1주차] 데이터 엔지니어링, 데이터 웨어하우스란?](https://whdgus928.tistory.com/167) <br/>
 [- [1주차] 데이터 팀의 비전과 가치를 만들어내는 방법](https://whdgus928.tistory.com/166) <br/>
 [- [1주차] 교육 커리큘럼과 요즘 커리어에 대해서](https://whdgus928.tistory.com/165) <br/>
-[- [구글 애드센스] "판매자 정보를 Google sellers.json 파일에 게시하시기 바랍니다." 해결하기](https://whdgus928.tistory.com/164) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
