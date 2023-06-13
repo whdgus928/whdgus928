@@ -9,8 +9,8 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
-[- [2주차]](https://whdgus928.tistory.com/172) <br/>
-[- [2주차] SQL 장단점 (작성중)](https://whdgus928.tistory.com/171) <br/>
+[- [2주차] SQL JOIN & 고급문법](https://whdgus928.tistory.com/173) <br/>
+[- [2주차] SQL 장단점 & 기본 문법](https://whdgus928.tistory.com/171) <br/>
 [- [프로그래머스] 파이썬 문제풀이 - 두 큐 합 같게 만들기](https://whdgus928.tistory.com/170) <br/>
 [- AWS AWSOME DAY](https://whdgus928.tistory.com/169) <br/>
 [- [1주차]AWS가 제공하는 데이터 웨어하우스 Redshift에 대해 알아보자](https://whdgus928.tistory.com/168) <br/>
