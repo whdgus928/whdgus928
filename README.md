@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [파이썬] 파이썬 MSSQL 연동 및 사용법, 한글깨짐, 변수 받아 쿼리 날리기](https://whdgus928.tistory.com/177) <br/>
 [- The command 'docker-compose' could not be found in this WSL 2 distro. 오류 해결하기](https://whdgus928.tistory.com/176) <br/>
 [- [3주차] Airflow 소개](https://whdgus928.tistory.com/175) <br/>
 [- [3주차] 데이터 파이프라인 정의와 종류](https://whdgus928.tistory.com/174) <br/>
 [- [2주차] SQL JOIN & 고급문법](https://whdgus928.tistory.com/173) <br/>
 [- [2주차] SQL 장단점 & 기본 문법](https://whdgus928.tistory.com/171) <br/>
-[- [프로그래머스] 파이썬 문제풀이 - 두 큐 합 같게 만들기](https://whdgus928.tistory.com/170) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
