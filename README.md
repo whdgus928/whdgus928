@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
+[- [ORACLE] 오라클 내부 작업 및 인덱스](https://whdgus928.tistory.com/183) <br/>
+[- [ORACLE] 오라클 SQL 튜닝](https://whdgus928.tistory.com/182) <br/>
+[- [ORACLE] 오라클 이해하기](https://whdgus928.tistory.com/181) <br/>
 [- [ORACLE] ORANGE 글자 크기 및 언어 변경](https://whdgus928.tistory.com/180) <br/>
 [- Linux에서 cfg 파일 열어서 편집하는 방법](https://whdgus928.tistory.com/179) <br/>
 [- [파이썬] 파일경로 분리하기](https://whdgus928.tistory.com/178) <br/>
-[- [파이썬] 파이썬 MSSQL 연동 및 사용법, 한글깨짐, 변수 받아 쿼리 날리기](https://whdgus928.tistory.com/177) <br/>
-[- The command 'docker-compose' could not be found in this WSL 2 distro. 오류 해결하기](https://whdgus928.tistory.com/176) <br/>
-[- [3주차] Airflow 소개](https://whdgus928.tistory.com/175) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
