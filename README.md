@@ -9,12 +9,12 @@
 * SQL
 
 ## ✅ 최근에 작성한 글
-[- [오라클] PL/SQL에서 쿼리 소요시간 확인하기](https://whdgus928.tistory.com/189) <br/>
+[- [ORACLE] LOCK 걸린 개체 확인](https://whdgus928.tistory.com/190) <br/>
+[- [ORACLE] PL/SQL에서 쿼리 소요시간 확인하기](https://whdgus928.tistory.com/189) <br/>
 [- [Oracle]  데이터 많을 때 count(*) 빠르게하기](https://whdgus928.tistory.com/188) <br/>
 [- [SQL 튜닝]  실행계획](https://whdgus928.tistory.com/187) <br/>
 [- [ORACLE] SQL 튜닝](https://whdgus928.tistory.com/186) <br/>
 [- [ORACLE] 인덱스 타는 방법](https://whdgus928.tistory.com/185) <br/>
-[- [ORACLE] 인덱스 접근](https://whdgus928.tistory.com/184) <br/>
 
 ## 💻공부하는 방법
 [기술 블로그](https://whdgus928.tistory.com/)
